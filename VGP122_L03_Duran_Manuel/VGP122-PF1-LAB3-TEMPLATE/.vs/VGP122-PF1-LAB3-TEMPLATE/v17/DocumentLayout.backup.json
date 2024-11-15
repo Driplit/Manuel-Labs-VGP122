@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\000 TorontoFilmSchoolStuff\\Term 2\\Programming 122\\Labs\\Lab3\\VGP122_L03_Duran_Manuel\\VGP122_Lab3_Duran_Manuel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8A4117-8196-4288-9F6D-277425560645}|Q6\\Q6.vcxproj|F:\\000 TorontoFilmSchoolStuff\\Term 2\\Programming 122\\Labs\\Lab3\\VGP122_L03_Duran_Manuel\\VGP122_Lab3_Duran_Manuel\\Q6\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD8A4117-8196-4288-9F6D-277425560645}|Q6\\Q6.vcxproj|solutionrelative:Q6\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D979E-2554-4F44-B1A5-11A75720EBAA}|Q2\\Q2.vcxproj|F:\\000 TorontoFilmSchoolStuff\\Term 2\\Programming 122\\Labs\\Lab3\\VGP122_L03_Duran_Manuel\\VGP122_Lab3_Duran_Manuel\\Q2\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C11D979E-2554-4F44-B1A5-11A75720EBAA}|Q2\\Q2.vcxproj|solutionrelative:Q2\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE20152-4E0E-41F8-9ADF-E6D1AC8E2847}|Q1\\Q1.vcxproj|F:\\000 TorontoFilmSchoolStuff\\Term 2\\Programming 122\\Labs\\Lab3\\VGP122_L03_Duran_Manuel\\VGP122_Lab3_Duran_Manuel\\Q1\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BE20152-4E0E-41F8-9ADF-E6D1AC8E2847}|Q1\\Q1.vcxproj|solutionrelative:Q1\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8894A51-33FC-45C7-9A9D-AA8FA52B89E5}|Q5\\Q5.vcxproj|F:\\000 TorontoFilmSchoolStuff\\Term 2\\Programming 122\\Labs\\Lab3\\VGP122_L03_Duran_Manuel\\VGP122_Lab3_Duran_Manuel\\Q5\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8894A51-33FC-45C7-9A9D-AA8FA52B89E5}|Q5\\Q5.vcxproj|solutionrelative:Q5\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C9D117E-1830-4976-91A0-BA20D631CF28}|Q4\\Q4.vcxproj|F:\\000 TorontoFilmSchoolStuff\\Term 2\\Programming 122\\Labs\\Lab3\\VGP122_L03_Duran_Manuel\\VGP122_Lab3_Duran_Manuel\\Q4\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C9D117E-1830-4976-91A0-BA20D631CF28}|Q4\\Q4.vcxproj|solutionrelative:Q4\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAC0FF5-8C45-4FB5-B4F6-10D6A6B6F2CB}|Q3\\Q3.vcxproj|F:\\000 TorontoFilmSchoolStuff\\Term 2\\Programming 122\\Labs\\Lab3\\VGP122_L03_Duran_Manuel\\VGP122_Lab3_Duran_Manuel\\Q3\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAC0FF5-8C45-4FB5-B4F6-10D6A6B6F2CB}|Q3\\Q3.vcxproj|solutionrelative:Q3\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "F:\\000 TorontoFilmSchoolStuff\\Term 2\\Programming 122\\Labs\\Lab3\\VGP122_L03_Duran_Manuel\\VGP122_Lab3_Duran_Manuel\\Q6\\Main.cpp",
+              "RelativeDocumentMoniker": "Q6\\Main.cpp",
+              "ToolTip": "F:\\000 TorontoFilmSchoolStuff\\Term 2\\Programming 122\\Labs\\Lab3\\VGP122_L03_Duran_Manuel\\VGP122_Lab3_Duran_Manuel\\Q6\\Main.cpp",
+              "RelativeToolTip": "Q6\\Main.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-03T00:19:04.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "F:\\000 TorontoFilmSchoolStuff\\Term 2\\Programming 122\\Labs\\Lab3\\VGP122_L03_Duran_Manuel\\VGP122_Lab3_Duran_Manuel\\Q5\\Main.cpp",
+              "RelativeDocumentMoniker": "Q5\\Main.cpp",
+              "ToolTip": "F:\\000 TorontoFilmSchoolStuff\\Term 2\\Programming 122\\Labs\\Lab3\\VGP122_L03_Duran_Manuel\\VGP122_Lab3_Duran_Manuel\\Q5\\Main.cpp",
+              "RelativeToolTip": "Q5\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-03T00:19:03.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "F:\\000 TorontoFilmSchoolStuff\\Term 2\\Programming 122\\Labs\\Lab3\\VGP122_L03_Duran_Manuel\\VGP122_Lab3_Duran_Manuel\\Q4\\Main.cpp",
+              "RelativeDocumentMoniker": "Q4\\Main.cpp",
+              "ToolTip": "F:\\000 TorontoFilmSchoolStuff\\Term 2\\Programming 122\\Labs\\Lab3\\VGP122_L03_Duran_Manuel\\VGP122_Lab3_Duran_Manuel\\Q4\\Main.cpp",
+              "RelativeToolTip": "Q4\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-03T00:19:02.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "F:\\000 TorontoFilmSchoolStuff\\Term 2\\Programming 122\\Labs\\Lab3\\VGP122_L03_Duran_Manuel\\VGP122_Lab3_Duran_Manuel\\Q3\\Main.cpp",
+              "RelativeDocumentMoniker": "Q3\\Main.cpp",
+              "ToolTip": "F:\\000 TorontoFilmSchoolStuff\\Term 2\\Programming 122\\Labs\\Lab3\\VGP122_L03_Duran_Manuel\\VGP122_Lab3_Duran_Manuel\\Q3\\Main.cpp",
+              "RelativeToolTip": "Q3\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-03T00:19:01.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "F:\\000 TorontoFilmSchoolStuff\\Term 2\\Programming 122\\Labs\\Lab3\\VGP122_L03_Duran_Manuel\\VGP122_Lab3_Duran_Manuel\\Q2\\Main.cpp",
+              "RelativeDocumentMoniker": "Q2\\Main.cpp",
+              "ToolTip": "F:\\000 TorontoFilmSchoolStuff\\Term 2\\Programming 122\\Labs\\Lab3\\VGP122_L03_Duran_Manuel\\VGP122_Lab3_Duran_Manuel\\Q2\\Main.cpp",
+              "RelativeToolTip": "Q2\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-03T00:19:00.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "F:\\000 TorontoFilmSchoolStuff\\Term 2\\Programming 122\\Labs\\Lab3\\VGP122_L03_Duran_Manuel\\VGP122_Lab3_Duran_Manuel\\Q1\\Main.cpp",
+              "RelativeDocumentMoniker": "Q1\\Main.cpp",
+              "ToolTip": "F:\\000 TorontoFilmSchoolStuff\\Term 2\\Programming 122\\Labs\\Lab3\\VGP122_L03_Duran_Manuel\\VGP122_Lab3_Duran_Manuel\\Q1\\Main.cpp",
+              "RelativeToolTip": "Q1\\Main.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-03T00:18:59.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

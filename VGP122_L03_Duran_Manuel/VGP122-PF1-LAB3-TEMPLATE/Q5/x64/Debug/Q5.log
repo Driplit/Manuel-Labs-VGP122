@@ -1,0 +1,4 @@
+﻿  Main.cpp
+F:\000 TorontoFilmSchoolStuff\Term 2\Programming 122\Labs\Lab3\VGP122_L03_Duran_Manuel\VGP122-PF1-LAB3-TEMPLATE\Q5\Main.cpp(25,18): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+F:\000 TorontoFilmSchoolStuff\Term 2\Programming 122\Labs\Lab3\VGP122_L03_Duran_Manuel\VGP122-PF1-LAB3-TEMPLATE\Q5\Main.cpp(32,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Q5.vcxproj -> F:\000 TorontoFilmSchoolStuff\Term 2\Programming 122\Labs\Lab3\VGP122_L03_Duran_Manuel\VGP122-PF1-LAB3-TEMPLATE\x64\Debug\Q5.exe
