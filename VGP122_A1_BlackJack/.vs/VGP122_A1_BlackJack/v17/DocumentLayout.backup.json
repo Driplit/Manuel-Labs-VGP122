@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\000 TorontoFilmSchoolStuff\\Term 2\\Programming 122\\Assignments\\Assignment1\\VGP122_A1_BlackJack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7D9479-647C-4A0D-A7A6-150F39AC2DFE}|VGP122_A1_BlackJack\\VGP122_A1_BlackJack.vcxproj|F:\\000 TorontoFilmSchoolStuff\\Term 2\\Programming 122\\Assignments\\Assignment1\\VGP122_A1_BlackJack\\VGP122_A1_BlackJack\\VGP122_A1_BlackJack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D7D9479-647C-4A0D-A7A6-150F39AC2DFE}|VGP122_A1_BlackJack\\VGP122_A1_BlackJack.vcxproj|solutionrelative:VGP122_A1_BlackJack\\VGP122_A1_BlackJack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VGP122_A1_BlackJack.cpp",
+              "DocumentMoniker": "F:\\000 TorontoFilmSchoolStuff\\Term 2\\Programming 122\\Assignments\\Assignment1\\VGP122_A1_BlackJack\\VGP122_A1_BlackJack\\VGP122_A1_BlackJack.cpp",
+              "RelativeDocumentMoniker": "VGP122_A1_BlackJack\\VGP122_A1_BlackJack.cpp",
+              "ToolTip": "F:\\000 TorontoFilmSchoolStuff\\Term 2\\Programming 122\\Assignments\\Assignment1\\VGP122_A1_BlackJack\\VGP122_A1_BlackJack\\VGP122_A1_BlackJack.cpp",
+              "RelativeToolTip": "VGP122_A1_BlackJack\\VGP122_A1_BlackJack.cpp",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAAAPQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T12:28:41.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
