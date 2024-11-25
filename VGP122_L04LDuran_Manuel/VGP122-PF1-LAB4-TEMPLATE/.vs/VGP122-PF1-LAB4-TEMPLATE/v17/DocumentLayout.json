@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\c00k_\\Downloads\\VGP122-PROGRAMMINGFUNDAMENTALS1-LAB4-TEMPLATE\\VGP122-PF1-LAB4-TEMPLATE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FACB1E4-9FEE-49F3-B280-AA38337D2146}|Q3\\Q3.vcxproj|C:\\Users\\c00k_\\Downloads\\VGP122-PROGRAMMINGFUNDAMENTALS1-LAB4-TEMPLATE\\VGP122-PF1-LAB4-TEMPLATE\\Q3\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3FACB1E4-9FEE-49F3-B280-AA38337D2146}|Q3\\Q3.vcxproj|solutionrelative:Q3\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B21674-792F-49EA-9516-1E466DC3CF32}|Q2\\Q2.vcxproj|C:\\Users\\c00k_\\Downloads\\VGP122-PROGRAMMINGFUNDAMENTALS1-LAB4-TEMPLATE\\VGP122-PF1-LAB4-TEMPLATE\\Q2\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26B21674-792F-49EA-9516-1E466DC3CF32}|Q2\\Q2.vcxproj|solutionrelative:Q2\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B754A7-C34E-46F6-BA3F-FF6AD8AF9AB8}|Q1\\Q1.vcxproj|C:\\Users\\c00k_\\Downloads\\VGP122-PROGRAMMINGFUNDAMENTALS1-LAB4-TEMPLATE\\VGP122-PF1-LAB4-TEMPLATE\\Q1\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1B754A7-C34E-46F6-BA3F-FF6AD8AF9AB8}|Q1\\Q1.vcxproj|solutionrelative:Q1\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\c00k_\\Downloads\\VGP122-PROGRAMMINGFUNDAMENTALS1-LAB4-TEMPLATE\\VGP122-PF1-LAB4-TEMPLATE\\Q1\\Main.cpp",
+              "RelativeDocumentMoniker": "Q1\\Main.cpp",
+              "ToolTip": "C:\\Users\\c00k_\\Downloads\\VGP122-PROGRAMMINGFUNDAMENTALS1-LAB4-TEMPLATE\\VGP122-PF1-LAB4-TEMPLATE\\Q1\\Main.cpp",
+              "RelativeToolTip": "Q1\\Main.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-24T03:04:36.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\c00k_\\Downloads\\VGP122-PROGRAMMINGFUNDAMENTALS1-LAB4-TEMPLATE\\VGP122-PF1-LAB4-TEMPLATE\\Q2\\Main.cpp",
+              "RelativeDocumentMoniker": "Q2\\Main.cpp",
+              "ToolTip": "C:\\Users\\c00k_\\Downloads\\VGP122-PROGRAMMINGFUNDAMENTALS1-LAB4-TEMPLATE\\VGP122-PF1-LAB4-TEMPLATE\\Q2\\Main.cpp",
+              "RelativeToolTip": "Q2\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-24T02:08:43.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\c00k_\\Downloads\\VGP122-PROGRAMMINGFUNDAMENTALS1-LAB4-TEMPLATE\\VGP122-PF1-LAB4-TEMPLATE\\Q3\\Main.cpp",
+              "RelativeDocumentMoniker": "Q3\\Main.cpp",
+              "ToolTip": "C:\\Users\\c00k_\\Downloads\\VGP122-PROGRAMMINGFUNDAMENTALS1-LAB4-TEMPLATE\\VGP122-PF1-LAB4-TEMPLATE\\Q3\\Main.cpp",
+              "RelativeToolTip": "Q3\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-24T02:50:40.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
