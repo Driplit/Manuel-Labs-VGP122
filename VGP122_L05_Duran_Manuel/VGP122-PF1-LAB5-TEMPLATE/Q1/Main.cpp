@@ -27,69 +27,78 @@ private:
     int year;
 
 public:
-    // Constructor
-    Date(int m, int d, int y) {
+    
+    Date(int d, int m, int y) 
+    {
         setMonth(m);
         day = d;
         year = y;
     }
 
-    // Set methods
-    void setMonth(int m) {
+    
+    void setMonth(int m) 
+    {
         if (m >= 1 && m <= 12)
             month = m;
-        else {
-            cout << "Invalid month. Setting month to 1." << endl;
+        else 
+        {
+            cout << "ERROR! Month must be 1-12." << endl;
             month = 1;
         }
     }
 
-    void setDay(int d) {
+    void setDay(int d) 
+    {
         day = d;
     }
 
-    void setYear(int y) {
+    void setYear(int y) 
+    {
         year = y;
     }
 
-    // Get methods
-    int getMonth() const {
+    
+    int getMonth() const 
+    {
         return month;
     }
 
-    int getDay() const {
+    int getDay() const 
+    {
         return day;
     }
 
-    int getYear() const {
+    int getYear() const 
+    {
         return year;
     }
 
-    // Method to display the date in the format mm/dd/yyyy
-    void displayDate() const {
-        cout << month << "/" << day << "/" << year << endl;
+ 
+    void displayDate() const 
+    {
+        cout << day << "/" << month << "/" << year << endl;
     }
 };
 
-// Test program
-int main() {
-    // Create a Date object
-    Date date(13, 25, 2023); // Invalid month, should be set to 1
 
-    // Display the initial date
+int main() {
+ 
+    Date date(25, 13, 2023); 
+
+ 
     cout << "Initial date:" << endl;
     date.displayDate();
 
-    // Modify the date using set methods
+  
     date.setMonth(12);
     date.setDay(31);
     date.setYear(2024);
 
-    // Display the updated date
+ 
     cout << "\nUpdated date:" << endl;
     date.displayDate();
 
-    // Access individual attributes using get methods
+   
     cout << "\nAccessing individual components:" << endl;
     cout << "Month: " << date.getMonth() << endl;
     cout << "Day: " << date.getDay() << endl;
